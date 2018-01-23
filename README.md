@@ -1,5 +1,8 @@
 # [Awesome Profit Trailer](https://profittrailer.com)
 
+![Logo](awesome-profittrailer/Logo-1.pngawesome-profittrailer/Logo-1.png)
+
+
 
 # FAQ
 - [VPS Install Guide PDF](https://wiki.profittrailer.io/lib/exe/fetch.php/installing_profit_trailer_on_a_vps.pdf) — From PT support (working best on Ubuntu)
