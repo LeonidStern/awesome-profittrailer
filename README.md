@@ -1,5 +1,7 @@
-# [Awesome Profit Trailer](https://profittrailer.com)
+# <p align="center"><p align="center">[Awesome Profit Trailer](https://profittrailer.com)
 
+<p align="center">
+	<a href="contributing.md">Contribution guide</a>&nbsp;&nbsp;&nbsp;<p align="center">
 
 # FAQ
 - [VPS Install Guide PDF](https://wiki.profittrailer.io/lib/exe/fetch.php/installing_profit_trailer_on_a_vps.pdf) — From PT support (working best on Ubuntu)
@@ -47,5 +49,6 @@
 
 
 # Windows Tools
+- [PuTTY](https://www.putty.org) — PuTTY is an SSH and telnet client (to connect with your VPS/server)
 - [CyberDuck](https://cyberduck.io/?l=en) — Free FTP client
 - [SublimeText](https://www.sublimetext.com) — Free text editor
