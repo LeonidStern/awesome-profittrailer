@@ -34,7 +34,7 @@
 
 
 # Crypto Tools
-- [TradingView](http://tradingview.com) — Get real-time information and market insights.
+- [TradingView](http://tradingview.com) — Get real-time information and market insights
 - [Coinigy](https://www.coinigy.com) — Trading platform
 
 
