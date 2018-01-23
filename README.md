@@ -3,11 +3,12 @@
 
 # FAQ
 - [VPS Install Guide PDF](https://wiki.profittrailer.io/lib/exe/fetch.php/installing_profit_trailer_on_a_vps.pdf) — From PT support (working best on Ubuntu)
-
+- [Wiki](https://wiki.profittrailer.io/doku.php/start) — ProfitTrailer Wiki
+- [How to minimize dust on Binance](https://steemit.com/profittrailer/@nidkil/profittrailer-minimize-dust-in-binance)
 
 
 # VPS and Server Guide
-- [DigitalOcean](https://m.do.co/c/430e35cff438)
+- [DigitalOcean](https://m.do.co/c/430e35cff438) — Editor Choice (lot of manuals and good support)
 - [Vultr](https://www.vultr.com)
 
 # Configs
@@ -40,6 +41,7 @@
 - [CyberDuck](https://cyberduck.io/?l=en) — Free FTP client
 - [Fluid](http://fluidapp.com) — Convert your links to Desktop Applications (or you can put it in status bar)
 - [Numi](https://numi.io)  — Beautiful calculator app for Mac
+- [Teampaper Snap](http://teampaper.me/snap) — Best screenshot tool for macOS
 
 
 
