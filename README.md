@@ -8,7 +8,7 @@
 
 
 # VPS and Server Guide
-- [DigitalOcean](https://m.do.co/c/430e35cff438) — Editor Choice (lot of manuals and good support)
+- [DigitalOcean](http://digitalocean.com) — Editor Choice (lot of manuals and good support)
 - [Vultr](https://www.vultr.com)
 
 # Configs
@@ -26,7 +26,7 @@
 
 # Exchanges
 
-- [Binance](https://www.binance.com/?ref=20221011) — Editor Choice
+- [Binance](https://www.binance.com) — Editor Choice
 - [Bittrex](https://bittrex.com)
 - [Poloniex](https://poloniex.com)
 
