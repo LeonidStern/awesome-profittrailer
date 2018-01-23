@@ -9,7 +9,7 @@
 - [How to minimize dust on Binance](https://steemit.com/profittrailer/@nidkil/profittrailer-minimize-dust-in-binance)
 
 
-# VPS and Server Guide
+# Hosting
 - [DigitalOcean](http://digitalocean.com) — Editor Choice (lot of manuals and good support)
 - [Vultr](https://www.vultr.com)
 
