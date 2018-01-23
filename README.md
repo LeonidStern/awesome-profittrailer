@@ -1,6 +1,6 @@
 # [Awesome Profit Trailer](https://profittrailer.com)
 
-![Logo](awesome-profittrailer/Logo-1.pngawesome-profittrailer/Logo-1.png)
+![Logo](/Logo-1.pngawesome-profittrailer/Logo-1.png)
 
 
 
