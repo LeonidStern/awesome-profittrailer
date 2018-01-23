@@ -1,7 +1,7 @@
 # <p align="center"><p align="center">[Awesome Profit Trailer](https://profittrailer.com)
 
 <p align="center">
-	<a href="contributing.md">Contribution guide</a>&nbsp;&nbsp;&nbsp;<p align="center">
+	<a href="CONTRIBUTING.MD">Contribution guide</a></p>
 
 # FAQ
 - [VPS Install Guide PDF](https://wiki.profittrailer.io/lib/exe/fetch.php/installing_profit_trailer_on_a_vps.pdf) — From PT support (working best on Ubuntu)
@@ -15,8 +15,6 @@
 
 # Configs
 - [CryptoGnome](https://github.com/CryptoGnome/Profit-Trailer-Settings/releases)
-
-
 
 
 
