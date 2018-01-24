@@ -1,4 +1,4 @@
-# <p align="center"><p align="center">[Awesome Profit Trailer](https://profittrailer.com)
+# <p align="center"><p align="center">[Awesome Profit Trailer](https://github.com/taniman/profit-trailer/releases)
 
 <p align="center">
 	<a href="CONTRIBUTING.MD">Contribution guide</a></p>
@@ -22,7 +22,7 @@
 # Calculators
 - [PT Tracker](https://github.com/chrisek/PT_Tracker) — Spreadsheet calculator with daily average profit, total profit, just copy and paste your sales log
 - [CryptoGnome Calc](https://github.com/CryptoGnome/Profit-Trailer-Settings/wiki/Profit-Calculator-&-Tracking-Spreadsheet) — Simple Calculator
-- [DCA Calculator by Davey](https://docs.google.com/spreadsheets/d/1R_ZbmCdmcTjtAVRgfUKnew0U4RVqNRkUXmmbskp7L5k/edit?usp=sharing)
+- [DCA Calculator by Davey](https://docs.google.com/spreadsheets/d/1R_ZbmCdmcTjtAVRgfUKnew0U4RVqNRkUXmmbskp7L5k/edit?usp=sharing) // [XLS here](https://github.com/DaveyBags/Profit-Trailer-Calculation-docs)
 
 # Exchanges
 
