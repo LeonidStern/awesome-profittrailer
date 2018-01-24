@@ -4,6 +4,7 @@
 	<a href="CONTRIBUTING.MD">Contribution guide</a></p>
 
 # FAQ
+- [Simple Installer/Updater for Ubuntu](https://github.com/t1m3c/pt_installer) — Just run script and your PT will be installed or updated
 - [VPS Install Guide PDF](https://wiki.profittrailer.io/lib/exe/fetch.php/installing_profit_trailer_on_a_vps.pdf) — From PT support (working best on Ubuntu)
 - [Wiki](https://wiki.profittrailer.io/doku.php/start) — ProfitTrailer Wiki
 - [How to minimize dust on Binance](https://steemit.com/profittrailer/@nidkil/profittrailer-minimize-dust-in-binance)
