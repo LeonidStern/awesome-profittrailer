@@ -25,9 +25,10 @@
 - [CryptoGnome Calc](https://github.com/CryptoGnome/Profit-Trailer-Settings/wiki/Profit-Calculator-&-Tracking-Spreadsheet) — Simple Calculator
 - [DCA Calculator by Davey](https://docs.google.com/spreadsheets/d/1R_ZbmCdmcTjtAVRgfUKnew0U4RVqNRkUXmmbskp7L5k/edit?usp=sharing) // [XLS here](https://github.com/DaveyBags/Profit-Trailer-Calculation-docs)
 
-# Exchanges
+# Exchanges & Tools
 
 - [Binance](https://www.binance.com) — Editor Choice
+-- [Binance auto-blacklist] (https://github.com/bennettca/binance-auto-blacklist) — Automatcally checks for new Binance listings and enables sell-only mode for pairs in ProfitTrailer. All newly listed coins will be set to sell-only mode in your PAIRS.properties file. If you are using PT-Feeder, your SomOnlyPairs in appsettings.json will be updated.
 - [Bittrex](https://bittrex.com)
 - [Poloniex](https://poloniex.com)
 
