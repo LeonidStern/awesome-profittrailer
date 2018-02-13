@@ -28,7 +28,7 @@
 # Exchanges & Tools
 
 - [Binance](https://www.binance.com) — Editor Choice
-- [Binance auto-blacklist] (https://github.com/bennettca/binance-auto-blacklist) — Automatcally checks for new Binance listings and enables sell-only mode for pairs in ProfitTrailer. All newly listed coins will be set to sell-only mode in your PAIRS.properties file. If you are using PT-Feeder, your SomOnlyPairs in appsettings.json will be updated.
+- [Binance auto-blacklist](https://github.com/bennettca/binance-auto-blacklist) — Automatcally checks for new Binance listings and enables sell-only mode for pairs in ProfitTrailer. All newly listed coins will be set to sell-only mode in your PAIRS.properties file. If you are using PT-Feeder, your SomOnlyPairs in appsettings.json will be updated.
 - [Bittrex](https://bittrex.com)
 - [Poloniex](https://poloniex.com)
 
