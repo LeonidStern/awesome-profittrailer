@@ -15,7 +15,7 @@
 - [Vultr](https://www.vultr.com)
 
 # Useful things
-- [TV Indicators](https://www.tradingview.com/u/Helmi/#published-scripts) — very useful indicators for TradingView for your strategy setup
+- [TV Indicators](https://botindicators.com/) — very useful indicators for TradingView for your strategy setup
 - [CryptoGnome](https://github.com/CryptoGnome/Profit-Trailer-Settings/releases) — Config
 
 
