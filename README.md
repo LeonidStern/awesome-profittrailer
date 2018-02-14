@@ -14,8 +14,9 @@
 - [DigitalOcean](http://digitalocean.com) — Editor Choice (lot of manuals and good support)
 - [Vultr](https://www.vultr.com)
 
-# Configs
-- [CryptoGnome](https://github.com/CryptoGnome/Profit-Trailer-Settings/releases)
+# Useful things
+- [TV Indicators](https://www.tradingview.com/u/Helmi/#published-scripts) — very useful indicators for TradingView for your strategy setup
+- [CryptoGnome](https://github.com/CryptoGnome/Profit-Trailer-Settings/releases) — Config
 
 
 
