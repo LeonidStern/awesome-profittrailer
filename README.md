@@ -15,6 +15,7 @@
 - [Vultr](https://www.vultr.com)
 
 # Useful things
+- [PT Magic add-on](https://github.com/Legedric/ptmagic) — all-in-one PT add-on with bunch of features
 - [PT Feeder add-on](https://github.com/mehtadone/PTFeeder/wiki) — PT Feeder is an authorised-add on to Profit Trailer
 - [TV Indicators](https://botindicators.com/) — very useful indicators for TradingView for your strategy setup
 - [CryptoGnome](https://github.com/CryptoGnome/Profit-Trailer-Settings/releases) — Config
